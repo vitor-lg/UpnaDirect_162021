@@ -3,7 +3,7 @@ package upna_direct_test;
 import upna_direct_codificacion.Bien;
 import org.junit.Test;
 import static org.junit.Assert.*;
-
+ 
 public class BienTest
 {    
     public BienTest() {}
