@@ -1,5 +1,5 @@
 package upna_direct_codificacion;
-
+ 
 public class VistaFalsa implements Vista1 {
     private final Integer añoNacimiento;
     private final Integer salario;
